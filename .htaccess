@@ -1,0 +1,7 @@
+# BLOQUEAR A LINCENÇA DO WORDPRESS #
+# BLOCKING WORDPRESS LINCENCE #
+
+<files license.txt>
+Order deny,allow
+Deny from all
+</files>
